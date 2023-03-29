@@ -1,0 +1,9 @@
+.env
+.production.env
+.staging.env
+node_modules/
+vcs.xml
+workspace.xml
+result.txt
+result/
+src/sources/*
